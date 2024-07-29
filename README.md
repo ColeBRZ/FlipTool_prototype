@@ -1,6 +1,6 @@
 # FlipTool_prototype
 
-There are many software tools that help you flip houses or calculate certain things during the process. I am aiming to automate as much of this flipping process as I can and will be scaling this application. Currently it is just python code, however, in a future version I would like to add a user interface. I made a previous version of this application in Django with a UI, however, I do not see a website being what I want this app to perform on. What I am currently looking at is a PyQt5 GUI for a desktop application. Anyways, enough background information on the project.
+There are many software tools that help you flip houses by calculating the many moving parts of the process. I am aiming to automate as much of this flipping process as I can and will be scaling this application. Currently, it is just Python code, however, in a future version I would like to add a user interface. I made a previous version of this application in Django with a UI, however, I do not see a website being what I want this app to perform on. What I am currently looking at is a PyQt5 GUI for a desktop application. Anyway, enough background information on the project.
 
 The primary goal of this current bit of software is to web scrape data from zillows robots.txt site in which they provide sitemaps for web scraping all of their URL's. 
 
