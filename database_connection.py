@@ -5,8 +5,8 @@ def db_connection():
     try:
         db = mysql.connector.connect(
             host="localhost",
-            user="coleb",
-            passwd="computerscience101!?!",
+            user="",
+            passwd="",
             database="flipdata"
         )
         return db
